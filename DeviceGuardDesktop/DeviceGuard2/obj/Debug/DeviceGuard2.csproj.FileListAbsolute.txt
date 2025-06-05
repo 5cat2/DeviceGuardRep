@@ -1,0 +1,17 @@
+D:\Проект3\DeviceGuard2\DeviceGuard2\bin\Debug\DeviceGuard2.exe.config
+D:\Проект3\DeviceGuard2\DeviceGuard2\bin\Debug\DeviceGuard2.exe
+D:\Проект3\DeviceGuard2\DeviceGuard2\bin\Debug\DeviceGuard2.pdb
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.csproj.AssemblyReference.cache
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.Form1.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.Properties.Resources.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.csproj.GenerateResource.cache
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.csproj.CoreCompileInputs.cache
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.exe
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.pdb
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.EmployeeForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.AdminForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.UserForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.DialogCommentForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.DialogEquipmentForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.SelectEmployeeForm.resources
+D:\Проект3\DeviceGuard2\DeviceGuard2\obj\Debug\DeviceGuard2.AddUserForm.resources
